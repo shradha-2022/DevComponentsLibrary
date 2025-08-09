@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Badge } from "@/components/ui/badge";
 import { Alert, AlertDescription } from "@/components/ui/alert";
-import { ClipboardCopy, Code, Palette, Zap, Shield, Layers, Sparkles, Search, Github, Twitter, Download, Star, Users, Play, Eye, Settings, Copy, Check } from "lucide-react";
+import { ClipboardCopy, Code, Palette, Zap, Shield, Layers, Sparkles, Search, Github, Twitter, Download, Star, Users, Play, Copy, Check } from "lucide-react";
 import { ThemeToggle } from "@/components/ui/theme-toggle";
 
 const componentsList = [
@@ -130,7 +130,7 @@ export default function DevComponentsShowcase() {
   const [searchTerm, setSearchTerm] = useState("");
   const [selectedCategory, setSelectedCategory] = useState("All");
   const [selectedComponent, setSelectedComponent] = useState<number | null>(null);
-  const [showDemo, setShowDemo] = useState(false);
+
   const [copiedCode, setCopiedCode] = useState<number | null>(null);
   
   const copyToClipboard = (text: string, index: number) => {
