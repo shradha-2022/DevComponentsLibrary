@@ -1,40 +1,101 @@
 # 🚀 Dev Components Library
 
-A modern and reusable **UI Components Library** built with React, TypeScript, and Tailwind CSS.  
-This library provides pre-designed, customizable, and developer-friendly UI components to speed up your development process.
+A reusable UI components library built with **React**, **TypeScript**, and **Tailwind CSS**, designed to speed up frontend development with modern, customizable components.
+
+## 📌 Live Demo  
+🔗 [View Site on Vercel](https://dev-components-library-xiug-fhtjos9zw.vercel.app)  
+
+## 📂 Repository  
+🔗 [GitHub Repository](https://github.com/shradha-2022/DevComponentsLibrary)  
 
 ---
 
-## 🌐 Live Demo  
-🔗 **Vercel Deployment:** [View Live Site](https://dev-components-library-xiug-fhtjos9zw.vercel.app)  
-📂 **GitHub Repository:** [View Source Code](https://github.com/shradha-2022/DevComponentsLibrary)  
+## 📸 Preview  
+![App Preview](https://via.placeholder.com/800x400?text=Dev+Components+Library+Preview)  
+*(Replace with actual screenshot of your site)*  
 
 ---
 
-## 📸 Demo Preview
-![Project Preview](https://via.placeholder.com/800x400.png?text=Project+Preview)
+## 🎥 Demo Video  
+*(Optional: Upload your demo video to GitHub repo `/assets/demo.mp4` or use a Loom/Drive link)*  
+🔗 [Watch Demo Video](#)  
 
 ---
 
-## ✨ Features
-- 🎨 **Beautiful UI** – Built with Tailwind CSS for fast customization.
-- ⚡ **Fast and Lightweight** – Optimized for performance.
-- 📦 **Reusable Components** – Easily import and use.
-- 🔥 **TypeScript Support** – For better development experience.
-- 📱 **Responsive Design** – Works perfectly on all devices.
+## 🛠️ Installation  
+
+### 1️⃣ Clone the repository  
+```bash
+git clone https://github.com/shradha-2022/DevComponentsLibrary.git
+cd DevComponentsLibrary
+````
+
+### 2️⃣ Install dependencies
+
+```bash
+npm install
+```
+
+### 3️⃣ Run locally
+
+```bash
+npm run dev
+```
+
+The project will start at: `http://localhost:5173` (or your framework default port)
 
 ---
 
-## 🛠️ Tech Stack
-- **React.js**
-- **TypeScript**
-- **Tailwind CSS**
-- **Vercel** (Deployment)
+## 📦 Tech Stack
+
+* **React** ⚛️
+* **TypeScript** 📝
+* **Tailwind CSS** 🎨
+* **shadcn/ui** for beautiful UI components
+* **Vercel** for deployment
 
 ---
 
-## 📦 Installation & Usage
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/shradha-2022/DevComponentsLibrary.git
-   cd DevComponentsLibrary
+## 📄 Features
+
+✅ Modern, responsive UI components
+✅ Easy to customize & reuse
+✅ Built with TypeScript for type safety
+✅ Tailwind CSS for fast styling
+
+---
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a new branch
+
+```bash
+git checkout -b feature-name
+```
+
+3. Commit your changes
+
+```bash
+git commit -m "Add new feature"
+```
+
+4. Push to branch
+
+```bash
+git push origin feature-name
+```
+
+5. Create a pull request
+
+---
+
+## 📬 Contact
+
+**Shradha Guttedar**
+📧 Email: [shradhacg@gmail.com](mailto:shradhacg@gmail.com)
+
+
+
+
+
